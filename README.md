@@ -14,12 +14,12 @@ http://localhost:3333
 */projects*
 in request body, pass id, title and tasks(array) -> tasks: []
 
-#### for example:
-##### {
-#####   "id": "1",
-#####   "title": "Project 1",
-#####   "tasks": []
-##### }
+for example:
+ {
+   "id": "1",
+   "title": "Project 1",
+   "tasks": []
+ }
 
 ### show all 
 */projects*
