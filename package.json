@@ -1,0 +1,18 @@
+{
+  "name": "conceitos-node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eldersoon/conceitos-node-js.git",
+  "author": "<eldesondagama@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  }
+}
